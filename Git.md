@@ -5,6 +5,10 @@
 - every clone of **repository** contains complete history of project
 - repository = a versioned project of code
 
+# Using Git
+- files don't show up to Git until you add them
+- you can use GitHut Desktop App or Git command line
+
 # GitHub
 - website that adds social features to Git
 - allows people to publish their git repositories
