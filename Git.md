@@ -8,6 +8,7 @@
 # Using Git
 - files don't show up to Git until you add them
 - you can use GitHut Desktop App or Git command line
+- `git log` is print project history
 
 # GitHub
 - website that adds social features to Git
