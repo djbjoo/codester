@@ -2,5 +2,15 @@
 - `puts` = prints a string (puts a string)
 - `control d` = exit
 - `#` is a comment and will not be run as code
-- `numb.chomp.to_i` = turn string into an integer (numb is a variable, chomp is a function, to_i is a function)
+- `string.chomp` = remove trailing white space
+- `to_i` = turn string into an integer (numb is a variable, chomp is a function, to_i is a function)
 - `to_f` = to floating point (for decimals, not whole number)
+- [ruby docs](http://ruby-doc.org/)
+- `def/end` = define a new function
+  - functions take arguments/variable
+  - `return` returns result of function
+- `ARGV` = command line program arguments (allows you to pass inputs to your program at command line)
+- `if/else/end` = conditional test
+  - `==` is conditional test (ex: x == 5 would test if x equals 5)
+  - `=` is assignment (ex: x = 5 sets x to be 5)
+- `#{}` interpolates ruby expressions inside a string ("expressions" can be put in an if statement)

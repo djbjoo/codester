@@ -9,4 +9,5 @@
 - underscore is _italic_
 - bold is two **asterisks**
 - more hashes = smaller headings (level 1 or 2 headings)
-- [name of link](http://website.com)
+- [website.com](http://website.com)
+- ![caption](http://i2.kym-cdn.com/photos/images/newsfeed/001/155/944/eeb.gif)

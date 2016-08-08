@@ -13,3 +13,4 @@
 - ~ = home directory
 - `cat` = from concatenate, prints a file (prints to the terminal text window)
 - `ctl + c` = cancels current program
+- `ctl + d` = exits irb
